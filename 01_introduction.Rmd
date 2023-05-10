@@ -2,14 +2,6 @@
 
 # Why we love R
 
-Thank you for choosing this book on using R for health data analysis.
-Even if you're already familiar with the R language, we hope you will find some new approaches here as we make the most of the latest R tools including some we've developed ourselves.
-Those already familiar with R are encouraged to still skim through the first few chapters to familiarise yourself with the style of R we recommend.
-
-R can be used for all the health data science applications we can think of. 
-From bioinformatics and computational biology, to administrative data analysis and natural language processing, through internet-of-things and wearable data, to machine learning and artificial intelligence, and even public health and epidemiology. 
-R has it all. 
-
 Here are the main reasons we love R:
 
 * R is versatile and powerful - use it for
